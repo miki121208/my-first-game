@@ -1,0 +1,24 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+a
+{
+	text-decoration: none;
+}
+.error
+{
+	color: red;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.map
+{
+	background-color: darkgreen;
+}
+.mapF
+{
+	background-color: green;
+	padding: 15px;
+}
